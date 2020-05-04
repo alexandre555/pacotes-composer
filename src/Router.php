@@ -2,10 +2,10 @@
 
 namespace alexandre555\Framework;
 
-class HelloWorld
+class Router
 {
     public function handler()
     {
-        echo "Hello World";
+        return true;
     }
 }

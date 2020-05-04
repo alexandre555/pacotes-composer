@@ -1,0 +1,17 @@
+{
+    "name": "alexandre555/pacotes-composer",
+    "description": "estudando pacote php com git",
+    "authors": [
+        {
+            "name": "Alexandre Santos",
+            "email": "alexandremsantos555@gmail.com"
+        }
+    ],"autoload": {
+        "psr-4": {
+            "alexandre555\\Framework\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    }
+}

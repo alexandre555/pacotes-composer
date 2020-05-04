@@ -1,0 +1,9 @@
+[MVC]
+Model: Responsável pelos dados
+View: Responsável pela camada de renderização
+Controller: Responsável pela ordem de execução
+
+
+Middlewares
+Events e Listeners
+Modularização
